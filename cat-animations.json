@@ -1,0 +1,123 @@
+{
+  "defaults": {
+    "frameWidth": 32,
+    "frameHeight": 32,
+    "frameDurationMs": 200,
+    "scale": 6,
+    "sheetOffsetX": 0,
+    "sheetOffsetY": 0
+  },
+  "defaultAnimation": "idle",
+  "animations": {
+    "idle": {
+      "label": "Idle 1",
+      "row": 0,
+      "frameCount": 10
+    },
+    "idle2": {
+      "label": "Idle 2",
+      "row": 1,
+      "frameCount": 10
+    },
+    "sleep": {
+      "label": "Sleep",
+      "row": 2,
+      "frameCount": 4
+    },
+    "dance": {
+      "label": "Dance",
+      "row": 3,
+      "frameCount": 4
+    },
+    "yawn": {
+      "label": "Yawn",
+      "row": 4,
+      "frameCount": 8
+    },
+    "excited": {
+      "label": "Excited",
+      "row": 5,
+      "frameCount": 10
+    },
+    "laying": {
+      "label": "Laying Down",
+      "row": 6,
+      "frameCount": 10
+    },
+    "bored": {
+      "label": "Bored",
+      "row": 7,
+      "frameCount": 8
+    },
+    "cry": {
+      "label": "Cry",
+      "row": 8,
+      "frameCount": 4
+    },
+    "boxplay3": {
+      "label": "Box Play Ready",
+      "row": 11,
+      "frameCount": 4
+    },
+    "boxplay2": {
+      "label": "Box Play Waiting",
+      "row": 10,
+      "frameCount": 4
+    },
+    "boxplay": {
+      "label": "Box Play Active",
+      "row": 9,
+      "frameCount": 10
+    },
+    "happy": {
+      "label": "Happy",
+      "row": 12,
+      "frameCount": 10
+    },
+    "eating": {
+      "label": "Eating",
+      "row": 13,
+      "frameCount": 15
+    },
+    "waiting": {
+      "label": "Waiting",
+      "row": 14,
+      "frameCount": 6
+    },
+    "refuse": {
+      "label": "Refuse",
+      "row": 15,
+      "frameCount": 13
+    },
+    "angry": {
+      "label": "Angry",
+      "row": 16,
+      "frameCount": 9
+    },
+    "shy": {
+      "label": "Shy",
+      "row": 17,
+      "frameCount": 12
+    },
+    "despite": {
+      "label": "Despite",
+      "row": 18,
+      "frameCount": 4
+    },
+    "licking": {
+      "label": "Licking",
+      "row": 19,
+      "frameCount": 11
+    },
+    "sick1": {
+      "label": "Sick 1",
+      "row": 20,
+      "frameCount": 4
+    },
+    "sick2": {
+      "label": "Sick 2",
+      "row": 21,
+      "frameCount": 4
+    }
+  }
+}
